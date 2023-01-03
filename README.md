@@ -1,2 +1,2 @@
-# Play_data-data_analysis_track
+# Play data (data analysis track)
 Studying data analysis with python
