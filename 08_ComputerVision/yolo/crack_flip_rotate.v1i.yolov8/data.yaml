@@ -1,0 +1,13 @@
+train: C:\Users\jeonj\Documents\GitHub\PlayData\08_ComputerVision\yolo\crack_flip_rotate.v1i.yolov8\train\images
+val: C:\Users\jeonj\Documents\GitHub\PlayData\08_ComputerVision\yolo\crack_flip_rotate.v1i.yolov8\valid\images
+test: C:\Users\jeonj\Documents\GitHub\PlayData\08_ComputerVision\yolo\crack_flip_rotate.v1i.yolov8\test\images
+
+nc: 1
+names: ['crack']
+
+roboflow:
+  workspace: angelo-maglasang-vuuq3
+  project: crack_flip_rotate
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/angelo-maglasang-vuuq3/crack_flip_rotate/dataset/1
