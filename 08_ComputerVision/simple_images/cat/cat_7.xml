@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_7.jpeg</filename>
+	<path>C:\Users\jeonj\Documents\GitHub\PlayData\08_Vision\simple_images\cat\cat_7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>19</ymin>
+			<xmax>1107</xmax>
+			<ymax>913</ymax>
+		</bndbox>
+	</object>
+</annotation>

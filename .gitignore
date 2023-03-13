@@ -1,0 +1,10 @@
+*.gz
+*.jpg
+*.png
+*.jpeg
+*.zip
+*.mp4
+\oxford
+\tfrecord
+\models
+\자료

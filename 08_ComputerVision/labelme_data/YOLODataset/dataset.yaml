@@ -1,0 +1,5 @@
+train: C:\Users\jeonj\Documents\GitHub\PlayData\08_Vision\labelme_data\YOLODataset/images/train/
+val: C:\Users\jeonj\Documents\GitHub\PlayData\08_Vision\labelme_data\YOLODataset/images/val/
+test: C:\Users\jeonj\Documents\GitHub\PlayData\08_Vision\labelme_data\YOLODataset/images/test/
+nc: 2
+names: ['dog', 'cat']
